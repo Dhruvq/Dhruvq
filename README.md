@@ -19,7 +19,11 @@ These days I’m focused on:
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white)](https://streamlit.io/)
 [![LlamaIndex](https://img.shields.io/badge/LlamaIndex-RAG-orange)](https://www.llamaindex.ai/)
-[![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-black)](https://ollama.com/)
+[![Ollama](https://img.shields.io/badge/Ollama-Local%20LLMs-black)](https://ollama.com/)
+[![AWS](https://img.shields.io/badge/Deploy-AWS%20EC2-orange?logo=amazonaws)]()
+[![CI/CD](https://img.shields.io/badge/CI/CD-GitHub%20Actions-blue?logo=githubactions)]()
+[![Docker](https://img.shields.io/badge/Containerization-Docker-blue?logo=docker)]()
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dhruvq&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=dhruvq&theme=shadow_green&hide_border=true)<br/>
