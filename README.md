@@ -25,9 +25,7 @@ These days I’m focused on:
 [![Docker](https://img.shields.io/badge/Containerization-Docker-blue?logo=docker)]()
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dhruvq&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dhruvq&theme=shadow_green&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvq&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![3D Contribution Calendar](./profile-3d-contrib/profile-night-view.svg)
 
 [![](https://visitcount.itsvg.in/api?id=dhruvq&icon=0&color=0)](https://visitcount.itsvg.in)
 
