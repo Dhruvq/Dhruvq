@@ -1,6 +1,6 @@
 ## 👋 Hey there
 
-I’m Dhruv, an Electrical Engineering M.S. student in Los Angeles focused on Machine Learning. I currently enjoy building clean, efficient ML pipelines and exploring the possibilities of where AI can take us.
+I’m Dhruv, an Electrical Engineering M.S. student at USC focused on Machine Learning. I currently enjoy building clean, efficient ML pipelines and exploring the possibilities of where AI can take us.
 
 These days I’m focused on:
 
