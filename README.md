@@ -10,6 +10,8 @@ These days I’m focused on:
 
 ## 🚀 Some projects I have been working on:
 
+Apollo-AI-Research-Analyst
+- [Apollo-AI-Research-Analyst](https://github.com/Dhruvq/Apollo-AI-Research-Analyst) - Apollo AI is an autonomous research assistant that ingests cutting-edge AI papers from arXiv, filters them through a three-layer impact pipeline, and generates biweekly research intelligence digests. Also features a live Telegram assistant for interactive querying of past research. Check out the video demo [here!](https://dhruvq.github.io/Apollo-AI-Research-Analyst/demo.html)
 - [AI Network Degradation Detection](https://github.com/Dhruvq/networkdeg) - An app that predicts short-term network performance degradation using internet telemetry from RIPE Atlas using XGBoost with SMOTE. Check out the current system health [here!](http://54.215.23.12/)
 - [Counselor AI](https://github.com/Dhruvq/counselorAI/) - A RAG agent designed to assist USC's MS ECE students by answering questions regarding their degree using only official university documentation.
 
