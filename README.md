@@ -1,4 +1,4 @@
-## 👋 Hey there
+## Hey there 👋
 
 I’m Dhruv, an Electrical Engineering M.S. student at USC focused on Machine Learning. I currently enjoy building clean, efficient ML pipelines and exploring the possibilities of where AI can take us.
 
