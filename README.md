@@ -29,11 +29,4 @@ These days I’m focused on:
 
 <img src="./profile-3d-contrib/profile-night-view.svg" width="60%" alt="3D Contribution Calendar" />
 
-![](https://github-readme-stats.vercel.app/api?username=dhruvq&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=dhruvq&theme=shadow_green&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvq&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-
-
-
-
