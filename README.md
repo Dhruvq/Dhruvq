@@ -27,6 +27,6 @@ These days I’m focused on:
 
 
 ## 📊 GitHub Stats:
-<!-- ![](https://nirzak-streak-stats.vercel.app/?user=dhruvq&theme=shadow_green&hide_border=true)<br/> -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=Dhruvq&theme=shadow_green)](https://git.io/streak-stats) <br/>
+<!-- ![](https://nirzak-streak-stats.vercel.app/?user=dhruvq&theme=shadow_green&hide_border=true)<br/> 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dhruvq&theme=shadow_green)](https://git.io/streak-stats) <br/> -->
 <img src="./profile-3d-contrib/profile-night-view.svg" width="60%" alt="3D Contribution Calendar" />
